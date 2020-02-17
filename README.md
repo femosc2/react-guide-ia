@@ -105,7 +105,13 @@ Now lets add the final(?) piece of the puzzle! Lets create the functionality for
 ![Picture14](https://i.imgur.com/EZFoMbK.png)
 This function uses a ton of ES6 features including the [spread oprerator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax), [.filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) and [.sort](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort). The function is the passed down to the Todo component as props.
 
-### You're Done!
+### You're Done (for now)!
+
+Try to add functionality for toggling started on your own!
+
+### Check out the [project @ github](https://github.com/femosc2/react-guide-ia)
+
+### // [Felix](www.felixmorau.se)
 
 
 
